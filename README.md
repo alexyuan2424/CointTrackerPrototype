@@ -1,5 +1,23 @@
 # CointTrackerPrototype
 
+## Overview
+
+CointTrackerPrototype is a versatile application designed for managing Bitcoin addresses, synchronizing wallet transactions, and providing information on balances and transactions.
+
+The application offers a RESTful API that facilitates user creation, addition/removal of Bitcoin addresses, and retrieval of Bitcoin address and transaction details. This information can be seamlessly integrated into a front-end UX service for user-friendly display.
+
+Note: this is a basic POC and there is still signficant work to be done. Here are a few todos that come to mind:
+- additional testing
+- database validation
+- sync job optimizations
+- api validation
+- api pagination
+- caching
+- logging + alerting
+- authentication
+- UX
+- Admin tooling
+
 ## Setup
 
 ### Prerequisites
