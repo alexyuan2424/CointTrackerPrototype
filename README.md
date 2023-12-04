@@ -18,7 +18,6 @@ Ensure you have the following prerequisites installed on your system:
    git clone <repository_url>
    cd <project_directory>
 2. **Run the application:**
- ```bash
  python run.py
 
 
