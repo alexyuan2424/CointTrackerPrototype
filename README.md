@@ -1,17 +1,28 @@
 # CointTrackerPrototype
 
 ## Setup
+
 ### Prerequisites
-- Python 3.x installed
-- Flask library
-- Requests library
+Ensure you have the following prerequisites installed on your system:
+
+- [Python 3.x](https://www.python.org/downloads/) installed
+- Flask library: Install with `pip install Flask`
+- Flask-SQLAlchemy for database: Install with `pip install Flask-SQLAlchemy`
+- Requests library: Install with `pip install requests`
+- Optional: [SQLite Browser](https://sqlitebrowser.org/dl/) for a user-friendly view of the database.
 
 ### Installation Steps
 
-1. Clone the repository
-2. Run application using "python run.py" in root branch
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository_url>
+   cd <project_directory>
+2. **Run the application:**
+  python run.py
+
 
 ## Design
+![cointrackerdesign](https://github.com/alexyuan2424/CointTrackerPrototype/assets/32046087/50f8f317-b044-4c9e-aacd-c2d5e1ba2ea0)
 
 ## API
 
